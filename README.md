@@ -1,6 +1,6 @@
-# flutter_app
+# pws_1
 
-A new Flutter application.
+Personal Weather Station Development
 
 ## Getting Started
 
