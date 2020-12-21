@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="187ee6da-d307-4aff-8fd3-5cbcf9870d26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hfc2AboijzXsHAo0Hw1xjYmb9E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="187ee6da-d307-4aff-8fd3-5cbcf9870d26" name="Default Changelist" comment="" />
+      <created>1600405377048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600405377048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="481" y="134" key="FileChooserDialogImpl" timestamp="1600406437695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="134" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600406437695" />
+    <state x="571" y="286" key="Github.ShareDialog" timestamp="1600406491087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="571" y="286" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1600406491087" />
+    <state width="1340" height="195" key="GridCell.Tab.0.bottom" timestamp="1600407361921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600407361921" />
+    <state width="1340" height="195" key="GridCell.Tab.0.center" timestamp="1600407361921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600407361921" />
+    <state width="1340" height="195" key="GridCell.Tab.0.left" timestamp="1600407361921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600407361921" />
+    <state width="1340" height="195" key="GridCell.Tab.0.right" timestamp="1600407361921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1340" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600407361921" />
+    <state x="209" y="35" key="SettingsEditor" timestamp="1600406478975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="35" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600406478975" />
+    <state x="100" y="100" width="1200" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600405591899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1200" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1600405591899" />
+  </component>
+</project>
